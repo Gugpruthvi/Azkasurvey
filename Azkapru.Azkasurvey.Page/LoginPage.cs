@@ -26,14 +26,14 @@ namespace Azkapru.Page
         }
         public void Clickloginpage()
         {
-            clickloginpage.Click();    
+            clickloginpage.Click();
         }
-       
-        
-            
-        
-        
-            
-        
+
+
+
+
+
+
+
     }
 }

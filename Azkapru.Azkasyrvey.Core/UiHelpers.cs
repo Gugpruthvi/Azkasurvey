@@ -15,7 +15,7 @@ namespace Azkapru.Core
             DriverContext.driver.Navigate().GoToUrl("https://www.azkasurvey.com/login");
             DriverContext.driver.Manage().Window.Maximize();
         }
-        
-        
+
+
     }
 }
